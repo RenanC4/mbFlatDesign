@@ -1,0 +1,118 @@
+html, body {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.first-section {
+    background-color: #2ecc71;
+}
+
+.nav-link{
+  
+        font-size: 18px;
+        font-family: "Roboto";
+        color: rgb(254, 254, 254);
+        
+}
+
+.get-app-button{
+    text-align: center;
+    color: #2ecc71;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    background-color: #fff;
+    font-family: "roboto", sans-serif;
+    font-weight: bold;
+    border: none;
+    padding: 
+
+}
+
+.first-section-apple-img {
+    background-color: #fff;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    padding: 15px;
+    display: block;
+    margin-top: 120px;
+}
+
+.first-section-download-icons{
+    padding-top: 30px;
+}
+
+.first-section-download-icons img:first-child{
+    margin-right: 15px;
+}
+
+.full-width {
+    width: 100%;
+    display: block;
+
+}
+
+.col-md-8, h1, p{
+    text-align: left;    
+    color: #fff;
+    margin-top: 20px;
+
+}
+
+.logo{
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    padding: 15px;
+    display: block;
+    margin-top: 2px;
+}
+
+.header{
+    background-color: #2ecc71;
+}
+
+
+.nav-link{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(254, 254, 254);
+}
+
+
+.getApp{
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 30px;
+    border-color: transparent !important;
+     outline: 0 !important;
+     color: #2ecc71;
+     font-weight: bold;
+}
+
+
+.fitApp p {
+    font-size: 38px;
+    font-family: 'Pacifico', sans-serif;
+    color: rgb(244, 244, 244);
+    font-style: italic;
+    font-weight: bold;
+
+  }
+ 
+  .btn-light{
+      background-color: white;
+      height: 40px;
+      width: 130px;
+      border-radius: 40px;
+      text-align: center;
+      font-size: 18px;
+      font-family: "Roboto";
+      color: rgb(46, 204, 113);
+      font-weight: bold;
+      border:0 none;
+      cursor:pointer;
+      outline:none;
+      
+}
